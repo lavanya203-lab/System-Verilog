@@ -1,0 +1,15 @@
+# Loading work.packed_array(fast)
+# 
+# run -all
+# abc = 1011
+# efg = 10000
+# exit
+# End time: 17:42:37 on Jul 11,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+End time: 17:42:37 on Jul 11,2025, Elapsed time: 0:00:01
+*** Summary *********************************************
+    qrun: Errors:   0, Warnings:   0
+    vlog: Errors:   0, Warnings:   0
+    vopt: Errors:   0, Warnings:   1
+    vsim: Errors:   0, Warnings:   0
+  Totals: Errors:   0, Warnings:   1
